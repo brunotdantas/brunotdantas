@@ -63,7 +63,7 @@
 <hr>
 <p align="center">
   <strong>
-    🌱 I’m currently learning
+    🌱 I’m currently working to improve my skills on
   </strong>
 </p>
   
