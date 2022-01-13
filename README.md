@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <strong>Frontend frameworks and techs:<strong> <br>
+  <strong>Frontend frameworks and Technologies:<strong> <br>
       <img src="https://image.flaticon.com/icons/png/512/919/919851.png" alt="React" width="40" height="40" />
       <img src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" alt="React Native" width="40" alt="">
       <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" alt="NextJs" width="40" height="40" />
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend frameworks and techs:<strong> <br>
+  <strong>Backend frameworks and Technologies:<strong> <br>
       <img src="https://image.flaticon.com/icons/png/512/919/919825.png" alt="Node" width="40" alt="">
       <img src="https://image.flaticon.com/icons/png/512/919/919830.png" alt="PHP" width="40" alt="">
       <img
@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <strong>Other techs:<strong> <br>
+  <strong>Other Technologies:<strong> <br>
       <img
         src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"
         alt="Expo" width="40" alt="">
@@ -77,11 +77,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     alt="typescript" width="40" height="40" />
 </p>
-<!-- colocar aqui as techs interessadas em usar
+<!-- colocar aqui as Technologies interessadas em usar
 <br>
 <p align="center">
   <strong>
-    :satellite: Techs I'm interested in
+    :satellite: Technologies I'm interested in
   </strong>
 </p>
 
